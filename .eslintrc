@@ -18,6 +18,10 @@
   "plugins": ["react"],
   "rules": {
     "no-console": "off",
-    "array-callback-return": "off"
+    "array-callback-return": "off",
+    "react/prop-types": "off",
+    "no-useless-return": "off",
+    "no-unused-vars": "warn",
+    "react/jsx-no-useless-fragment": "off"
   }
 }
